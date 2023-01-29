@@ -1,16 +1,12 @@
 ### Things I work on
 
-[**Random numbers python**](https://github.com/dibusure/random_numbers_python) - generates random numbers very slowly.
-
-[**Website**](https://github.com/dibusure/portfolioSite) - under active development, you can familiarize yourself with the outdated version by clicking on the name. 
-
-
-That's all for now, but you can send me ideas in a telegram (below)
-
+[Homework parser (scraper)](https://github.com/dibusure/school.mosreg.ru-parser)
+[Personal website](https://github.com/dibusure/dibuschure.ddns.net) (dibusure.ddns.net)
+[Bookshelf](https://github.com/dibusure/dibubooks.ddns.net) (dibubook.ddns.net)
 
 ---
 
 [Send me a message in telegram: **@dibusure**](https://t.me/dibusure)
 
-[Follow me on twitter: **@dibusure**](https://twitter.com/dibusure)
+[Follow me on reddit: **@dibusure**]()
 <!--The idea for the design of this README file was borrowed from xPaw-->
