@@ -1,6 +1,6 @@
 ### Things I work on
 
-[Homework parser (scraper)](https://github.com/dibusure/school.mosreg.ru-parser)
+[Homework parser (scraper)](https://github.com/dibusure/school.mosreg.ru-parser) (not on github yet)
 
 [Personal website](https://github.com/dibusure/dibuschure.ddns.net) (dibusure.ddns.net)
 
