@@ -3,4 +3,4 @@
 
 [Follow me on reddit](https://reddit.com/u/_dibusure)
 
-[See what I listen to n spotify](https://open.spotify.com/user/314ixak74y334t3hleq7mfrrcb2i?si=4d54224a59ff475f)
+[See what I listen to on Spotify](https://open.spotify.com/user/314ixak74y334t3hleq7mfrrcb2i?si=4d54224a59ff475f)
